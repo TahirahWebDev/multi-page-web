@@ -8,7 +8,7 @@ export default function Contact() {
       <div className="contact-container min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-[#00246B] to-[#CADCFC] text-white p-10">
         <h1 className="text-5xl font-bold mb-6">Get in Touch</h1>
         <p className="text-lg leading-relaxed max-w-2xl text-center mb-8">
-          Have a project in mind? Or just want to say hello? We'd love to hear from you! Fill out the form below or drop us an email, and we’ll get back to you as soon as possible.
+          Have a project in mind? Or just want to say hello? We&apos;d love to hear from you! Fill out the form below or drop us an email, and we&apos;ll get back to you as soon as possible.
         </p>
         <form className="w-full max-w-lg bg-white text-gray-800 rounded-lg p-6 shadow-lg">
           <div className="mb-4">

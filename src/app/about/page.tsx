@@ -12,7 +12,7 @@ export default function About() {
           We are a team of enthusiastic developers and designers who believe in the power of creativity and technology. Our mission is to build innovative, user-friendly solutions that inspire and transform the way people interact with the digital world. From sleek web design to powerful backend systems, we do it all.
         </p>
         <p className="text-lg leading-relaxed max-w-3xl text-center mb-8">
-          With years of experience in various technologies, we pride ourselves on delivering high-quality products and services tailored to meet our clients' unique needs. Let us bring your ideas to life.
+          With years of experience in various technologies, we pride ourselves on delivering high-quality products and services tailored to meet our clients unique needs. Let us bring your ideas to life.
         </p>
         <Link href="/contact">
           <button className="px-8 py-3 bg-[#00246B] text-white rounded-full text-lg font-semibold hover:bg-[#2655a7] transition">

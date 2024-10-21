@@ -6,7 +6,7 @@ const Home = () => {
       <header className="text-center mb-10">
         <h1 className="text-5xl font-extrabold mb-5 mt-5 animate-pulse">Welcome to Our Creative Hub!</h1>
         <p className="text-xl max-w-3xl mx-auto">
-          We’re passionate developers and designers creating innovative solutions to elevate your business.
+          We&apos;re passionate developers and designers creating innovative solutions to elevate your business.
           Explore our services and see how we can help you thrive in the digital world.
         </p>
       </header>
